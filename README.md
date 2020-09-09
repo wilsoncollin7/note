@@ -4,6 +4,8 @@
   This project uses a deployed app on Heroku. The application helps the user take notes. The user enters a title and note body, then saves the note. This note is saved on a server. There are GET and POST requests to retrive the notes and display them. The user can also delete a note once they are done with it.
 
   <img src="/public/assets/photos/testGif.gif">
+  
+  Check out this app at the live heroku link: [Note Taker](https://wilsoncollin7-note-taker.herokuapp.com/)
 
   ## Table of Contents
 
