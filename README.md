@@ -5,7 +5,7 @@
 
   <img src="/public/assets/photos/testGif.gif">
   
-  Check out this app at the live heroku link: [Note Taker](https://wilsoncollin7-note-taker.herokuapp.com/)
+  Check out this app at the live heroku link: [Note Taker](https://wilsoncollin7-note.herokuapp.com/)
 
   ## Table of Contents
 
